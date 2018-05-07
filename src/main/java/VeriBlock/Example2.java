@@ -1,6 +1,9 @@
-// VeriBlock Node Core
-// Copyright (C) 2017 VeriBlock, Inc.
+// VeriBlock
+// Copyright 2017-2018 VeriBlock, Inc.
 // All rights reserved.
+// https://www.veriblock.org
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
 //This is demo code intentionally kept very simple.
 //Do NOT use it for production-level code
